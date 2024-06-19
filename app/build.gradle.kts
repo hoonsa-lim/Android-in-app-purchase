@@ -66,5 +66,6 @@ dependencies {
     androidTestImplementation("androidx.compose.ui:ui-test-junit4")
     debugImplementation("androidx.compose.ui:ui-tooling")
     debugImplementation("androidx.compose.ui:ui-test-manifest")
-    implementation(project(":in-app-purchase"))
+
+    implementation("com.github.hoonsa-lim:Android-in-app-purchase:1.0.1")
 }

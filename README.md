@@ -19,6 +19,14 @@ android {
 }
 ```
 3. Add in-app-purchase module.
+[![](https://jitpack.io/v/hoonsa-lim/Android-in-app-purchase.svg)](https://jitpack.io/#hoonsa-lim/Android-in-app-purchase)
+```kotlin
+//app/build.gradle.kts
+dependencies {
+    ...
+    implementation("com.github.hoonsa-lim:Android-in-app-purchase:1.0.1")
+}
+```
 4. Modify to the ID of the subscription product created in No.1.
 ```kotlin
 //MainActivity.kt
