@@ -1,5 +1,8 @@
 ## In App Purchase example
 
+### Limit
+- Currently, only cover subscription products.
+
 ### Step
 1. Create subscription products from Google Play Console
 2. Modify the applicationId.
