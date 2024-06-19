@@ -15,7 +15,8 @@ android {
     }
 }
 ```
-3. Modify to the ID of the subscription product created in No.1.
+3. Add in-app-purchase module.
+4. Modify to the ID of the subscription product created in No.1.
 ```kotlin
 //MainActivity.kt
 Button(
